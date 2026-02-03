@@ -1,0 +1,6 @@
+coverage/
+lib/
+node_modules/
+**/*.test.ts
+**/*.test.js
+jest.config.js
